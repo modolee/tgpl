@@ -20,3 +20,4 @@
 * [2.4 할당](https://steemit.com/kr-dev/@modolee/the-go-programming-language-2-2-4)
 * [2.5 타입 선언](https://steemit.com/kr-dev/@modolee/the-go-programming-language-2-2-5)
 * [2.6 패키지와 파일](https://steemit.com/kr-dev/@modolee/the-go-programming-language-2-2-6)
+* [2.7 범위](https://steemit.com/kr-dev/@modolee/the-go-programming-language-2-2-7)
